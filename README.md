@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Olga. Welcome To My GitHub!✨
+### Hi there. My name is Olga. Welcome To My GitHub!
 
 — — — — — — — — — — — — — — — — — — — — —
 
