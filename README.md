@@ -8,4 +8,4 @@
 - 📗 Upper Intermediate English.
 
 ### Hard Skills: 
-+ Terminal commands (Linux): https://github.com/egorovaolga888/Terminal_Commands.git
++ Terminal commands (Linux): [link](https://github.com/egorovaolga888/Terminal_Commands.git)
