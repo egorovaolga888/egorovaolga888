@@ -9,3 +9,4 @@
 
 ### Hard Skills: 
 + Terminal commands (Linux): [link](https://github.com/egorovaolga888/Terminal_Commands.git)
++ Mobile_Check_list: [link](https://docs.google.com/spreadsheets/d/1R5vWpuPZjOQib3zlGwqJNIWOy4NeMQNQqLwrUU6MuxE/edit?usp=sharing)
